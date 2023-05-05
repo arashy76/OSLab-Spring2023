@@ -1,0 +1,6 @@
+def print_numbers(n: int) -> str:
+    for i in range(n):
+        print(i+1)
+
+if __name__ == '__main__':
+    print_numbers(5)
