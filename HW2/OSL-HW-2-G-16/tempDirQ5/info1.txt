@@ -1,0 +1,15 @@
+name	family	age	city	salary
+sara	jam	25	anzali	200
+atabak	rah	35	rasht	150
+amir	ahmadi	20	fouman	300
+sina	zamani	30	tehran	400
+parsa	asghari	23	shiraz	10000
+ahamd	jamali	34	lahijan	2000
+saeed	sadeghi	40	rasht	2200
+alireza	norouzi	39	astara	350
+ali	ahmadi	29	mashhad	800
+saman	samany	53	karaj	3200
+samira	rahimi	25	tabriz	5000
+hamed	zahedi	49	ahvaz	7400
+hamid	sedighi	60	hamedan	40000
+nima	bayati	33	astane	700

@@ -1,0 +1,3 @@
+name	family	age	city	salary
+sara	jam	25	anzali	200
+atabak	rah	35	rasht	150
