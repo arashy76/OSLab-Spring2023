@@ -1,0 +1,13 @@
+name	family	age	city	salary
+sara	jam	25	anzali	200
+atabak	rah	35	rasht	150
+javad	besh	22	khakhk	0
+Ali	moha	21	karaj	300
+Hasan	sadr	22	karaj	300
+Mmd	niko	22	karaj	200
+Adi	khosh	21	shomal	270
+Ali	ghor	22	ahvaz	900
+Hos	sheikh	21	tehran	100
+Mahdi	moh	19	karaj	100
+Mmd	dansh	23	karaj	150
+Sina	abdol	22	karaj	550
