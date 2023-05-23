@@ -1,0 +1,743 @@
+this is sample text
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  cat /etc/issue
+    4  wsl
+    5  wsl -l -v
+    6  ls
+    7  cd Desktop
+    8  clear
+    9  sudo apt update
+   10  clear
+   11  wsl.conf
+   12  cd trc
+   13  cd etc
+   14  cd /etc
+   15  ls
+   16  vim
+   17  cd /etc
+   18  ls
+   19  sudo touch wsl.conf
+   20  ls
+   21  sudo nano
+   22  cd /etc
+   23  ls
+   24  sudo nano wsl.conf
+   25  notepad.exe wsl.conf
+   26  .wslconfig
+   27  vim
+   28  apt update
+   29  sudo apt update    <h1>آموزش جاوااسکریپت</h1>
+   30  sudo update
+   31  sudo apt update
+   32  sudo apt upgrade
+   33  sudo apt update
+   34  q
+   35  cd /etc
+   36  ls
+   37  notepad.exe wsl.conf
+   38  cd /mnt
+   39  ls
+   40  cd c
+   41  cd ../../
+   42  calc.exe
+   43  $PATH
+   44  whoami
+   45  cd /etc
+   46  ls
+   47  sudo nano wsl.conf
+   48  nano wsl.conf
+   49  wsl -l
+   50  hcsdiag list
+   51  logout
+   52  cd /mnt
+   53  cd c
+   54  cd user
+   55  ls
+   56  cd Users
+   57  ls
+   58  cd iWin_64bit
+   59  ls
+   60  cd Desktop
+   61  ls
+   62  open main.py
+   63  cd QueraFrontend
+   64  ls
+   65  cd fonts
+   66  ls
+   67  cd home
+   68  cd roor
+   69  cd /homr
+   70  cd /hme
+   71  cd /home
+   72  ls
+   73  cd sadra
+   74  ls
+   75  cd /home/sadra
+   76  cd /home
+   77  ls
+   78  cd /sadra
+   79  cd \sadra
+   80  ls
+   81  lsls
+   82  cd /mnt
+   83  ls
+   84  cd c
+   85  cd Users
+   86  cd iWin-64bit
+   87  ls
+   88  cd iWin_64bit
+   89  cd desktop
+   90  sudo touch sample.txt
+   91  sudo nano sample.txt
+   92  nano sample.txt
+   93  echo $PATH
+   94  cd /home
+   95  ls
+   96  cd /sada
+   97  clear
+   98  cd ../
+   99  alias note=notepad.exe
+  100  note sample.txt
+  101  cd /mnt
+  102  cd c
+  103  cd Users
+  104  cd iWin-64bit
+  105  ls
+  106  cd iWin_64bit
+  107  cd desktop
+  108  note sample.txt
+  109  cd /home
+  110  ls
+  111  ls -a
+  112  cd \\wsl.localhost\Ubuntu-22.04\home\sadra
+  113  cd \home
+  114  cd ../
+  115  cd \home
+  116  cd \sadra
+  117  ls
+  118  ls -a
+  119  sudo nano .bashrc
+  120  wslpath -u 'c:/Users'
+  121  wslpath -v/mnt/c/Users
+  122  wslpath -v /mnt/c/Users
+  123  wslpath -w /mnt/c/Users
+  124  clear
+  125  sudo apt install python3
+  126  sudo
+  127  python
+  128  py
+  129  sudo install python3
+  130  install --help
+  131  sudo apt update
+  132  vim
+  133  cd /mnt
+  134  cd c
+  135  cd iWin_64bit
+  136  ls
+  137  cd Users
+  138  ls
+  139  cd iWin_64bit
+  140  cd desktop
+  141  ls
+  142  cd ترم6
+  143  مس
+  144  ls
+  145  cd 'شبکه های کامپیوتری'
+  146  ls
+  147  xdg-open Network1_1.mp4
+  148  sudo apt install xdg-utils
+  149  ls
+  150  xdg-open Network1_1.mp4
+  151  clear
+  152  cd$
+  153  cd $
+  154  cd ../../../../
+  155  cd ../ 
+  156  cd ../
+  157  ls
+  158  cd home
+  159  ls
+  160  cd sadra
+  161  cd home
+  162  ls
+  163  cd /mnt
+  164  ls
+  165  ls a
+  166  ls -a
+  167  cd c
+  168  cd User
+  169  cd Users
+  170  cd iWin-64bit
+  171  ls
+  172  cd iWin_64bit
+  173  cd desktop
+  174  ls
+  175  ls -a
+  176  clear
+  177  out
+  178  wsl -l -v
+  179  -l -v
+  180  wsl termiate
+  181  sudo spt sever
+  182  sudo apt install python3
+  183  suto apt update Visual Studio Code
+  184  sudo apt update Visual Studio Code
+  185  sudo update
+  186  sudo apt update
+  187  sudo apt list --upgradable
+  188  clear
+  189  cd /mnt
+  190  cd c
+  191  cd Users
+  192  ls
+  193  cd iWin_64bit
+  194  cd desktop
+  195  cd Fronted
+  196  cd Frontend
+  197  ls
+  198  code. 
+  199  code .
+  200  cd 
+  201  cd /mnt/c/Users/iWin_64bit/desktop/Frontend
+  202  code
+  203  code. 
+  204  code .
+  205  cd /mnt
+  206  cd c
+  207  cd User
+  208  cd Users
+  209  ls
+  210  cd iWin_64bit
+  211  cd desktop
+  212  cd Frontend
+  213  ls
+  214  code .
+  215  code /
+  216  stop
+  217  code
+  218  termial
+  219  code .
+  220  sudo apt update
+  221  sudo apt upgrade
+  222  cd desktop
+  223  cd /mnt
+  224  ls
+  225  cd c
+  226  cd Users
+  227  ls
+  228  cd iWin_64bit
+  229  ls
+  230  cd desktop
+  231  ls
+  232  file CodeVisionAVR_Projects
+  233  file Test
+  234  file flex
+  235  file flex.mp4
+  236  file -f desktop.lst
+  237  file -f desktop
+  238  file -f CodeVisionAVR_Projects
+  239  file arta.c
+  240  sudo apt gcc
+  241  sudo apt install gcc
+  242  gcc arta.c
+  243  sudo apt install gcc
+  244  clear
+  245  sudo apt install gcc
+  246  sudo apt-get update
+  247  clear
+  248  sudo apt install gcc
+  249  gcc tempCode
+  250  gcc tempCode.c
+  251  a.c
+  252  a.out
+  253  tempCode.c
+  254  gcc --version
+  255  nano
+  256  gcc tempCode.c
+  257  gecc -o compilerFile tempCode.c
+  258  gcc -o compilerFile tempCode.c
+  259  compilerFile
+  260  ./compilerFile
+  261  clear
+  262  touch tempCode.c
+  263  tempCode.c echo #include<stdio.h>
+  264  int main(){
+  265  return 0;
+  266  ls
+  267  nano tempCode.c
+  268  echo "#include<stdio.h>"
+  269  int main(){
+  270  return 0;
+  271  }
+  272  echo "#include<stdio.h>
+  273  int main(){
+  274  return 0;
+  275  }" > tempCode
+  276  nano tempCode
+  277  clear
+  278  touch tempCode.c
+  279  echo "#include<stdio.h>
+  280  int main(){
+  281  printf("Hello world");
+  282  return 0;
+  283  }" > tempCode.c
+  284  cat tempCode.c
+  285  gcc -o compiledFile tempCode.c
+  286  clear
+  287  touch tempCode.c
+  288  echo "#include<stdio.h>
+  289  int main(){
+  290  printf("Hello word");
+  291  return 0;
+  292  }" > tempCode.c
+  293  cat tempCode.c
+  294  gcc -o compiledFile tempCode.c
+  295  clear
+  296  touch tempCode.c
+  297  echo "#include <stdio.h>
+  298  int main(){
+  299  printf("Hello world");
+  300  return 0;
+  301  }" > tempCode.c
+  302  cat tempCode.c
+  303  gcc -o compiledFile tempCode.c
+  304  clear
+  305  sudo apt install gedit
+  306  touch tempCode.c
+  307  gedit tempCode.c
+  308  #include <stdio.h>
+  309  int main(){
+  310  printf("Hello world");
+  311  return 0;
+  312  }#include <stdio.h>
+  313  int main(){
+  314  printf("Hello world");
+  315  return 0;
+  316  }clear
+  317  clear
+  318  touch tempCode
+  319  clear
+  320  touch tempCode.c
+  321  echo '#include<stdio.h>
+  322  int main(){
+  323  printf("Hello world");
+  324  return 0;
+  325  }' > tempCode.c
+  326  cat tempCode.c
+  327  gcc -o compiledFile tempCode.c
+  328  ./compiledFile
+  329  touch tempCode.c
+  330  echo '#include<stdio.h>
+  331  int main(){
+  332  printf("Hello world\n");
+  333  return 0;
+  334  }'> tmepCode.c
+  335  cat tempCode.c
+  336  clear
+  337  touch tempCode.c
+  338  echo '#include<stdio.h>
+  339  int main(){
+  340  printf("Hello world\n");
+  341  return 0;
+  342  }' > tempCode.c
+  343  cat tempCode.c
+  344  gcc -o compiledFile tempCode.c
+  345  compiledFile
+  346  touch tempCode.c
+  347  clear
+  348  cd c/mnt
+  349  cd /mnt
+  350  cd c
+  351  cd Users
+  352  ls
+  353  cd iWin_64bit
+  354  cd desktop
+  355  clear
+  356  touch tempCode.c
+  357  echo '#include<stdio.h>
+  358  int main(){
+  359  printf("Hello world\n");
+  360  return 0;
+  361  }' > tempCode.c
+  362  cat tempCode.c
+  363  gcc -o compiledFile tempCode.c
+  364  ./compiledFile
+  365  clear
+  366  cd /mnt
+  367  cd c
+  368  cd Users
+  369  ls
+  370  cd iWin_64bit
+  371  cd desktop
+  372  ls
+  373  clear
+  374  file tempCode.c
+  375  mv tempCode.c tempCode
+  376  file tempCode
+  377  clear
+  378  clasa'd
+  379  sadsad
+  380  clear
+  381  q`
+  382  cd /mnt
+  383  cd Users
+  384  cd c
+  385  cd Users
+  386  cd iWin_64
+  387  ls
+  388  cd iWin_64bit
+  389  cd desktop
+  390  ls
+  391  ls -l
+  392  cd mnt
+  393  cd /mnt
+  394  cd c
+  395  cd Users
+  396  cd iWin_64bit
+  397  cd desktop
+  398  clea
+  399  clear
+  400  ls
+  401  linux
+  402  pwd
+  403  dir
+  404  terminal
+  405  clear
+  406  sadra
+  407  cd /mnt
+  408  cd Users
+  409  cd c
+  410  cd Users
+  411  clear
+  412  cd iWin_64bit
+  413  cd desktop
+  414  cd Frontend
+  415  ls
+  416  cd projects
+  417  ls
+  418  cd paages
+  419  cd pages
+  420  ls
+  421  file page4.html
+  422  cd /mnt
+  423  cd c
+  424  cd Users
+  425  cd iWin_64bit
+  426  docker
+  427  exit
+  428  docker
+  429  docker kill $(docker ps -q
+  430  )
+  431  docker kill $(docker ps -q)‏
+  432  docker
+  433  exit
+  434  find --help
+  435  clear
+  436  cd /mn
+  437  cd /mnt
+  438  cd c
+  439  cd Users
+  440  cd iWin_64bit
+  441  cd desktop
+  442  clear
+  443  cut -f 2info.txt
+  444  cut -f 2 info.txt
+  445  clear
+  446  ls -a
+  447  ls -la
+  448  clear
+  449  head -n 1 info.text
+  450  head -n 1 info.txt
+  451  head -n 2 info.txt
+  452  sed -n 2 info.txt
+  453  tail -n 2 info.txt
+  454  clear
+  455  awk 'NR == 2' info.txt
+  456  awk 'NR == 1' info.txt
+  457  awk 'NR == 3' info.txt
+  458  clear
+  459  cd /
+  460  ls -la
+  461  find / -group root -amin +50 -and -exe
+  462  find / -group root -amin +50 -exec ls -l {} \;
+  463  clear
+  464  mkdir Q4
+  465  cd Q4
+  466  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  467  mkdir subQ4
+  468  touch subQ4/amir.txt subQ4/arta
+  469  echo 'this is a file without extension' > file1
+  470  echo 'this is a hidden file and its name is hidden' > .hidden.txt
+  471  echo 'this is a normal txt file'> a.txt
+  472  echo 'this is another file with the txt extension' > amir.txt
+  473  find / -group -amin +50 -and -exe
+  474  clear
+  475  find / -group root -amin +50 -exe
+  476  cler
+  477  clear
+  478  find / -group root -amin +50 -and -exe
+  479  cd /mnt
+  480  cd c
+  481  cd Users
+  482  cd iWin_64bit
+  483  cd desktop
+  484  mkdir tempDir
+  485  cd tempDir
+  486  asd
+  487  q
+  488  mkdir{subDir1,subDir2,subDir3}
+  489  mkdir {subDir1,subDir2,subDir3}
+  490  ls
+  491  cd subDir1
+  492  touch a.txt
+  493  echo 'Hello \n world' > a.txt
+  494  cd ../
+  495  cd /
+  496  find / -group root -amin +50 -and -exec
+  497  cd /mnt/c/Users/iWin_64bit/desktop/tempDir
+  498  find . type -f -exec wc -l{}\;
+  499  find . -type f -exec wc -l {} \;
+  500  cat subDir1/a.txt
+  501  clear
+  502  find --help
+  503  ls --help
+  504  clear
+  505  mkdir Q3
+  506  cd Q3
+  507  touch {a1.txt, a2.txt}
+  508  ls
+  509  rmdir Q3
+  510  clear
+  511  cd ../
+  512  cd ..
+  513  clear
+  514  mkdir Q4
+  515  touch a.txt,sadra.txt,.hidden.txt,amir.txt
+  516  ls
+  517  clear
+  518  mkdir Q4
+  519  cd Q4
+  520  touch a.txt, sadra.txt, .hidden.txt, ahmad.txt
+  521  ls
+  522  clea
+  523  clear
+  524  mkdir Q4
+  525  cd ../
+  526  clear
+  527  mkdir Q4
+  528  cd Q4
+  529  touch a.txt sadra.txt .hidden.txt file1 file2.text
+  530  ls
+  531  ls -a
+  532  mkdir subQ4
+  533  touch arta.txt
+  534  ls -a -l
+  535  ls -a -l *.txt
+  536  clear
+  537  cd ../
+  538  clear
+  539  mkdir Q4
+  540  cd Q4
+  541  touch sadra.txt a.txt file1 .hidden.txt file2.png
+  542  mkdir subQ4
+  543  amir.txt arta.jpg
+  544  clear
+  545  cd ../
+  546  claera
+  547  clear
+  548  mkdir Q4
+  549  cd Q4
+  550  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  551  mkdir subQ4
+  552  touch subQ4/amir.txt subQ4/arta
+  553  echo 'Hello world' > sadra.txt
+  554  echo 'salam jahan' > file1
+  555  echo 'this is a picture' > file2.png
+  556  echo 'this is a hidden file and its name is hidden' > .hidden.txt
+  557  echo 'this is a normal txt file'> a.txt
+  558  echo 'this is another file with the txt extension' > amir.txt
+  559  echo 'this is another picture' > subQ4/arta
+  560  ls -a -l | wc -w
+  561  ls -a -l *.txt | wc -w
+  562  cd ../
+  563  cd /mnt/c/Users/iWin_64bit/desktop
+  564  clear
+  565  mkdir Q4
+  566  cd Q4
+  567  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  568  mkdir subQ4
+  569  touch subQ4/amir.txt subQ4/arta.jpg
+  570  clear
+  571  cd ../
+  572  clear
+  573  mkdir Q4
+  574  cd Q4
+  575  touch subQ4/amir.txt subQ4/arta.jpg
+  576  echo 'this file does not have extension' > file1
+  577  clear 
+  578  cd ../
+  579  clear
+  580  mkdir Q4
+  581  cd Q4
+  582  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  583  cd /mnt/c/Users/iWin_64bit/desktop
+  584  clear
+  585  mkdir Q4
+  586  cd Q4
+  587  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  588  mkdir subQ4
+  589  cd c
+  590  cd /mnt
+  591  cd c
+  592  cd USers
+  593  cd iWin_64bit
+  594  cd desktop
+  595  cd /mnt/c/Users/iWin_64_bit/desktop
+  596  cd /mnt
+  597  cd c
+  598  cd USers
+  599  cd ..
+  600  cd Users
+  601  cd iWin_64bit
+  602  cd deskotp
+  603  cd desktop
+  604  clear
+  605  mkdir Q4
+  606  clear
+  607  mkdir Q4
+  608  clea
+  609  clear
+  610  mkdir Q4
+  611  cd Q4
+  612  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  613  mkdir subQ4
+  614  touch subQ4/amir.txt subQ4/arta.jpg
+  615  echo 'my name is sadra' > sadra.txt
+  616  echo 'this file does not have extension' > file1
+  617  echo 'this is a picture' > file2.png
+  618  echo 'this is a hidden file and its name is hidden' > hidden.txt
+  619  ehco 'this is a txt file with the name amir.txt' > subQ4/amir.txt
+  620  cd ../
+  621  cd /mnt/c/Users/iWin_64bit/desktop
+  622  clear
+  623  mkdir Q4
+  624  cd Q4
+  625  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  626  mkdir subQ4
+  627  echo 'my name is sadra' > sadra.txt
+  628  echo 'this file does not have extensions' > file1
+  629  echo 'this is a picture' > file2.png
+  630  echo 'this is a normal txt file' > a.txt 
+  631  echo 'this is a hidden file with the name .hidden' > .hidden/txt
+  632  clear
+  633  cd ../
+  634  clear
+  635  mkdir Q4
+  636  cd Q4
+  637  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  638  mkdirsubQ4
+  639  cleara
+  640  clear
+  641  cd .. /
+  642  cd ../
+  643  clear
+  644  mkdir Q4
+  645  cd Q4
+  646  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  647  mkdir subQ4
+  648  touch subQ4/amir.txt subQ4/arta.jpg
+  649  echo 'my name is sadra' > sadra.txt
+  650  echo 'this file does not have extensions' > file1
+  651  echo 'this is a picture' > file2.png
+  652  echo 'this is a normal txt file' > a.txt
+  653  echo 'this is a hidden file with the name .hidden' > .hidden.txt
+  654  echo 'this is a txt file with the name amir' > subQ4/amir.txt
+  655  echo 'this is another picture' > subQ4/arta.jpg 
+  656  ls -a -l *.txt
+  657  ls -a -l *.txt | wc -w
+  658  ls -a
+  659  ls -a 
+  660  ls -a -l
+  661  ls -a -l *.txt
+  662  clear
+  663  cd ../
+  664  clear
+  665  cd Q4
+  666  mkdir Q4
+  667  mkdir subq4
+  668  cd subq4
+  669  touch amir.txt
+  670  echo 'my name is amir' > amir.txt
+  671  cd ../
+  672  ls -a -l *.txt | wc -w
+  673  ls -a -l
+  674  cd Q4
+  675  ls -a -l *.txt | wc -w
+  676  clear
+  677  mkdir Q4
+  678  cd ../
+  679  mkdir Q4
+  680  cd Q4
+  681  mkdir Q41
+  682  touch Q41/amir.txt
+  683  echo 'my name is amir' > Q41.txt
+  684  ls -a -l *.txt | wc -w
+  685  ls -a -l *.txt
+  686  ls -a -l *.txt | wc -w
+  687  clear
+  688  cd ../
+  689  clear
+  690  mkdir Q4
+  691  cd Q4
+  692  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  693  echo 'my name is sadra' > sadra.txt
+  694  echo 'this file does not have extensions' > file1
+  695  echo 'this is a picture' > file2.png
+  696  echo 'this is a normal txt file' > a.txt
+  697  cho 'this is a hidden file with the name .hidden' > .hidden.txt
+  698  clear
+  699  cd ../
+  700  clar
+  701  clea
+  702  clear
+  703  mkdir Q4
+  704  cd Q4
+  705  touch sadra.txt file1 file2.png a.txt .hidden.txt
+  706  echo 'my name is sadra' > sadra.txt
+  707  echo 'this file does not have extensions' > file1
+  708  echo 'this is a picture' > file2.png
+  709  echo 'this is a normal txt file' > a.txt
+  710  echo 'this is a hidden file with the name .hidden' > .hidden.txt
+  711  ls -a -l *.txt | wc -w
+  712  ls -a -l txt
+  713  ls - a -l *.txt
+  714  ls -a -l *.txt
+  715  ls -a -l *.txt | wc -w
+  716  ls
+  717  ls -a -l *.txt | wc -w
+  718  touch a.txt
+  719  echo 'this is a txt file'
+  720  echo 'this is a txt file' > a.txt
+  721  ls -a -l *.txt | wc -w
+  722  ls -a -l *.txt
+  723  cd /mnt
+  724  cd c
+  725  cd Users
+  726  cd iWin_64bit
+  727  cd desktop
+  728  clear
+  729  mkdirtempDirQ3
+  730  clear
+  731  mkdir tempDirQ3
+  732  cd tempDirQ3
+  733  mkdir subDir1
+  734  mkdir subDir1/subDir2
+  735  mkdir subDir1/subDir2/subDir3
+  736  mkdir subDir1/subDir2/subDir3/subDir4
+  737  mkdir subDir1/subDir2/subDir3/subDir4/subDir5
+  738  mkdir subDir1/subDir2/subDir3/subDir4/subDir5/subDir6
+  739  cd subDir1/subDir2/subDir3/subDir4/subDir5/subDir6
+  740  touch ../../../../../../text.txt
+  741  echo 'this is sample text' > ../../../../../../text.txt
+  742  history >> ../../../../../../text.txt
