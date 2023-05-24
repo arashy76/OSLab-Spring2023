@@ -1,0 +1,5 @@
+Hello.
+This is second exersice for OS lab.
+in this exe we want to find atabak 
+atabak its a word we should find it
+can u find atabak in this file?
