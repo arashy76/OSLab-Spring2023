@@ -1,0 +1,25 @@
+    1  sudo apt update
+    2  ls
+    3  ./autotun.sh
+    4  /.autotun.sh
+    5  /autotun.sh
+    6  .autotun.sh
+    7  ./autotun.sh
+    8  ./autorun.sh
+    9  sudo apt install build-essential dkms linux-headers-$(uname-r)
+   10  cd Desktop
+   11  pwd
+   12  mkdir d1
+   13  cd d1
+   14  mkdir d2
+   15  cd d2
+   16  mkdir d3
+   17  cd d3
+   18  mkdir d4
+   19  cd d4
+   20  mkdir d5
+   21  rm d5
+   22  rm -r d5
+   23  touch /home/saba/Desktop/file1.txt
+   24  open /home/saba/Desktop/file1.txt
+   25  history> /home/saba/Desktop/file1.txt
