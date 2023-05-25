@@ -1,0 +1,8 @@
+this is a test for sort HW02_Q3.txt|uniq -c
+As walked down the street, I couldn't help but notice the beauty of the autumn leaves.
+As walked down the street, I couldn't help but notice the beauty of the autumn leaves.
+Butterflies fluttered about the garden, dancing among the flowers.
+Butterflies fluttered about the garden, dancing among the flowers.
+Butterflies fluttered about the garden, dancing among the flowers.
+Maybe tomorrow will be a better day.
+Many people love to explore new places and try new things.

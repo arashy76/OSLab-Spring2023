@@ -1,0 +1,591 @@
+    1  history
+    2  sudo apt install curl
+    3  curl -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question1/example.c
+    4  curl -o HW2.c https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question1/example.c
+    5  clear
+    6  curl -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question1/example.c -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question3/pycode.py
+    7  [200~curl -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question1/example.c -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question3/pycode.py
+    8  ~
+    9  [200~curl -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question1/example.c -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question3/pycode.py
+   10  curl -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question1/example.c -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question3/pycode.py
+   11  curl -c -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question1/example.c -O https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question3/pycode.py
+   12  clear
+   13  sudo apt-install wget
+   14  sudo apt install wget
+   15  wget https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question1/example.c
+   16  wget -O Test.c https://github.com/arashy76/OSLab-Spring2023/blob/main/HW1/OSL-HW-1-G-11/Question1/example.c
+   17  mkdir RecursiveDownload
+   18  cd RecursiveDownload
+   19  wget https://github.com/arashy76/OSLab-Spring2023
+   20  https://github.com/arashy76/OSLab-Spring2023
+   21  wget -r https://github.com/arashy76/OSLab-Spring2023
+   22  cd ..
+   23  touch Downloads.txt
+   24  gedit Downloads.txt
+   25  wget -i Downloads.txt
+   26  history > m16.txt
+   27  history -r
+   28  man history
+   29  history --help
+   30  ls -l
+   31  mkdir
+   32  cd Desktop
+   33  mkdir test
+   34  rmdir
+   35  rmdir test
+   36  mkdir --help
+   37  mkdir test
+   38  mkdir test/test2
+   39  ls test
+   40  mkdir --help
+   41  rmdir test
+   42  rmdir --help
+   43  rmdir -p test
+   44  rmdir -p test/test2
+   45  history --help
+   46  alias --help
+   47  alias
+   48  ll
+   49  alias
+   50  rrokropkopskofpsd
+   51  touch --help
+   52  touch test.txt
+   53  vim test.txt
+   54  gedit test.txt
+   55  cat test.txt
+   56  file test.txt
+   57  clear
+   58  rmdir test.txt
+   59  remove
+   60  gedit
+   61  vim 
+   62  sudo apt install gedit
+   63  touch test.txt
+   64  touch file
+   65  gedit file
+   66  file file
+   67  rename
+   68  file test
+   69  vim
+   70  touch test1
+   71  gedit test1
+   72  file test1
+   73  touch test2
+   74  gedit test2
+   75  file test2
+   76  gedit test2
+   77  file test2
+   78  mv test test.c
+   79  file test.c
+   80  file test1
+   81  file --help
+   82  file --compile test1
+   83  file magic.mgc
+   84  gedit magic.mgc
+   85  cat test1
+   86  cat > test1
+   87  cat test1
+   88  cat --help
+   89  cat >> test1
+   90  cat test1
+   91  history > test1
+   92  cat test1
+   93  ls
+   94  mkdir test
+   95  rmdir test
+   96  mkdir test
+   97  mkdir -p test/test2
+   98  rm test
+   99  rm --help
+  100  rm -r test
+  101  mkdir test
+  102  cd test
+  103  touch test.txt
+  104  cd ..
+  105  rm test
+  106  rm -r test
+  107  rm --help
+  108  cat test.c
+  109  cat test2
+  110  cp test.c test2
+  111  cat test2
+  112  cat test.c
+  113  gedit test2
+  114  cp --help
+  115  cp test.c test2
+  116  cat test2
+  117  cat test.c
+  118  pwd
+  119  mkdir FOlder
+  120  mkdir Folder
+  121  cd FOlder
+  122  cp ..
+  123  ls
+  124  cd ..
+  125  cd Folder
+  126  ls
+  127  touch test.txt
+  128  mkdir
+  129  ls
+  130  cp test.txt ..
+  131  ls *.txt
+  132  ls *.*
+  133  ls 
+  134  ls ?.txt
+  135  clear
+  136  cd ..
+  137  vim
+  138  sudo apt install vim
+  139  vim
+  140  history
+  141  ls 
+  142  cd Folder
+  143  rm -rf *,*
+  144  cd Folder
+  145  ls
+  146  cd folder
+  147  rm -rf *.c
+  148  ls
+  149  rm -rf *.txt
+  150  ls
+  151  shutdown 
+  152  sudo apt install build-essential uuid-dev cmake default-jre python3 python3-dev python3-pip libantlr4-runtime-dev antlr4 ninja-build
+  153  python setup.py install --prefix /tmp/python_install/ --build-type Debug -- -DANTLR_JAR_LOCATION=/antlr-4.7.1-complete.jar -- VERBOSE=1
+  154  python3 setup.py install --prefix /tmp/python_install/ --build-type Debug -- -DANTLR_JAR_LOCATION=/antlr-4.7.1-complete.jar -- VERBOSE=1
+  155  hdlConvertor
+  156  [200~sudo apt install build-essential uuid-dev cmake default-jre python3 python3-dev python3-pip libantlr4-runtime-dev antlr4 ninja-build
+  157  ~sudo apt install build-essential uuid-dev cmake default-jre python3 python3-dev python3-pip libantlr4-runtime-dev antlr4 ninja-build
+  158  sudo apt install build-essential uuid-dev cmake default-jre python3 python3-dev python3-pip libantlr4-runtime-dev antlr4 ninja-build
+  159  sudo pip3 install --upgrade --force-reinstall --no-cache-dir git+https://github.com/Nic30/hdlConvertorAst.git
+  160  sudo apt-get git
+  161  sudo pip3 install --upgrade --force-reinstall --no-cache-dir git+https://github.com/Nic30/hdlConvertorAst.git
+  162  git
+  163  sudo apt install git
+  164  sudo pip3 install --upgrade --force-reinstall --no-cache-dir git+https://github.com/Nic30/hdlConvertorAst.git
+  165  sudo pip3 install -r requirements.txt
+  166  ls
+  167  cd Desktop
+  168  sudo pip3 install --upgrade --force-reinstall --no-cache-dir git+https://github.com/Nic30/hdlConvertorAst.git
+  169  sudo pip3 install -r requirements.txt
+  170  sudo pip3 install hdlConvertor
+  171  git clone https://github.com/Nic30/hdlConvertor.git
+  172  cd hdlConvertor
+  173  sudo pip3 install -r requirements.txt
+  174  sudo python3 setup.py install
+  175  cmd ..
+  176  cd ..
+  177  py test.py
+  178  python test.py
+  179  python3 test.py
+  180  cd Desktop
+  181  python3 test.py
+  182  cd hdlConvertor
+  183  mkdir build && cd build
+  184  cmake .. && cmake . --build
+  185  cpack # to generate .deb package
+  186  cmake .. && cmake . --build
+  187  sudo apt install zip
+  188  cd usr/share/java
+  189  cd ..
+  190  cd usr
+  191  ls
+  192  cd ..
+  193  cd
+  194  l
+  195  cd usr
+  196  cd ..
+  197  cd usr
+  198  cd ..
+  199  cd ubuntu/usr
+  200  cd Desktop
+  201  cd hdlConvertor
+  202  dir
+  203  py setup.py
+  204  python setup.py
+  205  cd Desktop
+  206  clear
+  207  apt install gcc
+  208  sudo apt install gcc
+  209  gcc -version
+  210  clear
+  211  gcc --version
+  212  gcc --help
+  213  touch example.c
+  214  gedit example.c
+  215  gcc example.c -o example.o
+  216  gedit example.c
+  217  gcc example.c -o example.o -lm
+  218  ./example.o
+  219  cd Desktop
+  220  ./example.o
+  221  touch x.sh
+  222  gedit x.sh
+  223  ls -l
+  224  gedit x.sh
+  225  rename
+  226  mv
+  227  mv example.o test.o
+  228  gedit x.sh
+  229  ./x.sh
+  230  chmod x.sh u+x
+  231  chmod u+x x.sh
+  232  ./x.sh
+  233  gedit x.sh
+  234  ./x.sh
+  235  mv f5/test.txt f5/test2.txt
+  236  gedit x.sh
+  237  ./x.sh
+  238  gedit x.sh
+  239  ./x.sh
+  240  clear
+  241  ./x.sh
+  242  curl
+  243  docker
+  244  clear
+  245  read a
+  246  echo $a
+  247  gedit x.sh
+  248  ./x.sh 
+  249  gedit.xsh
+  250  gedit x.sh
+  251  ./x.sh 
+  252  gedit x.
+  253  clear
+  254  gedit x.sh
+  255  ./x.sh
+  256  gedit x.sh
+  257  ./x.sh
+  258  gedit x.sh
+  259  ./x.sh
+  260  gedit x.sh
+  261  ./x.sh
+  262  cclear
+  263  clear
+  264  ggedit x.sh
+  265  gedit x.sh
+  266  ./x.sh
+  267  ./xshj
+  268  ./x.sh
+  269  gedit x.sh
+  270  ./x.sh
+  271  gedit x.sh
+  272  ./x.sh 4 5
+  273  gedit x.sh
+  274  ./x.sh 10 20
+  275  ./x.sh 50
+  276  ./x.sh 1 2
+  277  ./x.sh 1 234534534534534534
+  278  gedit x.sh
+  279  ./x.sh 20 30
+  280  gedit x.sh
+  281  ./x.sh 20 30
+  282  ./test.o
+  283  gedit exmaple.c
+  284  gcc example.c
+  285  gcc -o example.o example.c
+  286  cd Desktop
+  287  gcc -o example.o example.c
+  288  gedit example.c
+  289  gcc -o example.o example.c
+  290  ./example.o
+  291  gedit example.c
+  292  gcc -o example.o example.c
+  293  ./example.o
+  294  ./CODI.o
+  295  cd Desktop
+  296  ./CODI.o
+  297  sudo ./CODI.o
+  298  chmod 
+  299  chmod u+x CODI.o
+  300  ./CODI.o
+  301  sudo
+  302  cd Desktop
+  303  sudo apt install vs.deb
+  304  dir
+  305  sudo apt install vs.deb
+  306  sudo apt install ./ vs.deb
+  307  sudo apt install ./vs.deb
+  308  history > m16.txt
+  309  history -r
+  310  man history
+  311  history --help
+  312  ls -l
+  313  mkdir
+  314  cd Desktop
+  315  mkdir test
+  316  rmdir
+  317  rmdir test
+  318  mkdir --help
+  319  mkdir test
+  320  mkdir test/test2
+  321  ls test
+  322  mkdir --help
+  323  rmdir test
+  324  rmdir --help
+  325  rmdir -p test
+  326  rmdir -p test/test2
+  327  history --help
+  328  alias --help
+  329  alias
+  330  ll
+  331  alias
+  332  rrokropkopskofpsd
+  333  touch --help
+  334  touch test.txt
+  335  vim test.txt
+  336  gedit test.txt
+  337  cat test.txt
+  338  file test.txt
+  339  clear
+  340  rmdir test.txt
+  341  remove
+  342  gedit
+  343  vim 
+  344  sudo apt install gedit
+  345  touch test.txt
+  346  touch file
+  347  gedit file
+  348  file file
+  349  rename
+  350  file test
+  351  vim
+  352  touch test1
+  353  gedit test1
+  354  file test1
+  355  touch test2
+  356  gedit test2
+  357  file test2
+  358  gedit test2
+  359  file test2
+  360  mv test test.c
+  361  file test.c
+  362  file test1
+  363  file --help
+  364  file --compile test1
+  365  file magic.mgc
+  366  gedit magic.mgc
+  367  cat test1
+  368  cat > test1
+  369  cat test1
+  370  cat --help
+  371  cat >> test1
+  372  cat test1
+  373  history > test1
+  374  cat test1
+  375  ls
+  376  mkdir test
+  377  rmdir test
+  378  mkdir test
+  379  mkdir -p test/test2
+  380  rm test
+  381  rm --help
+  382  rm -r test
+  383  mkdir test
+  384  cd test
+  385  touch test.txt
+  386  cd ..
+  387  rm test
+  388  rm -r test
+  389  rm --help
+  390  cat test.c
+  391  cat test2
+  392  cp test.c test2
+  393  cat test2
+  394  cat test.c
+  395  gedit test2
+  396  cp --help
+  397  cp test.c test2
+  398  cat test2
+  399  cat test.c
+  400  pwd
+  401  mkdir FOlder
+  402  mkdir Folder
+  403  cd FOlder
+  404  cp ..
+  405  ls
+  406  cd ..
+  407  cd Folder
+  408  ls
+  409  touch test.txt
+  410  mkdir
+  411  ls
+  412  cp test.txt ..
+  413  ls *.txt
+  414  ls *.*
+  415  ls 
+  416  ls ?.txt
+  417  clear
+  418  cd ..
+  419  vim
+  420  sudo apt install vim
+  421  vim
+  422  history
+  423  ls 
+  424  cd Folder
+  425  rm -rf *,*
+  426  cd Folder
+  427  ls
+  428  cd folder
+  429  rm -rf *.c
+  430  ls
+  431  rm -rf *.txt
+  432  ls
+  433  shutdown 
+  434  sudo apt install build-essential uuid-dev cmake default-jre python3 python3-dev python3-pip libantlr4-runtime-dev antlr4 ninja-build
+  435  python setup.py install --prefix /tmp/python_install/ --build-type Debug -- -DANTLR_JAR_LOCATION=/antlr-4.7.1-complete.jar -- VERBOSE=1
+  436  python3 setup.py install --prefix /tmp/python_install/ --build-type Debug -- -DANTLR_JAR_LOCATION=/antlr-4.7.1-complete.jar -- VERBOSE=1
+  437  hdlConvertor
+  438  [200~sudo apt install build-essential uuid-dev cmake default-jre python3 python3-dev python3-pip libantlr4-runtime-dev antlr4 ninja-build
+  439  ~sudo apt install build-essential uuid-dev cmake default-jre python3 python3-dev python3-pip libantlr4-runtime-dev antlr4 ninja-build
+  440  sudo apt install build-essential uuid-dev cmake default-jre python3 python3-dev python3-pip libantlr4-runtime-dev antlr4 ninja-build
+  441  sudo pip3 install --upgrade --force-reinstall --no-cache-dir git+https://github.com/Nic30/hdlConvertorAst.git
+  442  sudo apt-get git
+  443  sudo pip3 install --upgrade --force-reinstall --no-cache-dir git+https://github.com/Nic30/hdlConvertorAst.git
+  444  git
+  445  sudo apt install git
+  446  sudo pip3 install --upgrade --force-reinstall --no-cache-dir git+https://github.com/Nic30/hdlConvertorAst.git
+  447  sudo pip3 install -r requirements.txt
+  448  ls
+  449  cd Desktop
+  450  sudo pip3 install --upgrade --force-reinstall --no-cache-dir git+https://github.com/Nic30/hdlConvertorAst.git
+  451  sudo pip3 install -r requirements.txt
+  452  sudo pip3 install hdlConvertor
+  453  git clone https://github.com/Nic30/hdlConvertor.git
+  454  cd hdlConvertor
+  455  sudo pip3 install -r requirements.txt
+  456  sudo python3 setup.py install
+  457  cmd ..
+  458  cd ..
+  459  py test.py
+  460  python test.py
+  461  python3 test.py
+  462  cd Desktop
+  463  python3 test.py
+  464  cd hdlConvertor
+  465  mkdir build && cd build
+  466  cmake .. && cmake . --build
+  467  cpack # to generate .deb package
+  468  cmake .. && cmake . --build
+  469  sudo apt install zip
+  470  cd usr/share/java
+  471  cd ..
+  472  cd usr
+  473  ls
+  474  cd ..
+  475  cd
+  476  l
+  477  cd usr
+  478  cd ..
+  479  cd usr
+  480  cd ..
+  481  cd ubuntu/usr
+  482  cd Desktop
+  483  cd hdlConvertor
+  484  dir
+  485  py setup.py
+  486  python setup.py
+  487  cd Desktop
+  488  clear
+  489  apt install gcc
+  490  sudo apt install gcc
+  491  gcc -version
+  492  clear
+  493  gcc --version
+  494  gcc --help
+  495  touch example.c
+  496  gedit example.c
+  497  gcc example.c -o example.o
+  498  gedit example.c
+  499  gcc example.c -o example.o -lm
+  500  ./example.o
+  501  cd Desktop
+  502  ./example.o
+  503  touch x.sh
+  504  gedit x.sh
+  505  ls -l
+  506  gedit x.sh
+  507  rename
+  508  mv
+  509  mv example.o test.o
+  510  gedit x.sh
+  511  ./x.sh
+  512  chmod x.sh u+x
+  513  chmod u+x x.sh
+  514  ./x.sh
+  515  gedit x.sh
+  516  ./x.sh
+  517  mv f5/test.txt f5/test2.txt
+  518  gedit x.sh
+  519  ./x.sh
+  520  gedit x.sh
+  521  ./x.sh
+  522  clear
+  523  ./x.sh
+  524  curl
+  525  docker
+  526  clear
+  527  read a
+  528  echo $a
+  529  gedit x.sh
+  530  ./x.sh 
+  531  gedit.xsh
+  532  gedit x.sh
+  533  ./x.sh 
+  534  gedit x.
+  535  clear
+  536  gedit x.sh
+  537  ./x.sh
+  538  gedit x.sh
+  539  ./x.sh
+  540  gedit x.sh
+  541  ./x.sh
+  542  gedit x.sh
+  543  ./x.sh
+  544  cclear
+  545  clear
+  546  ggedit x.sh
+  547  gedit x.sh
+  548  ./x.sh
+  549  ./xshj
+  550  ./x.sh
+  551  gedit x.sh
+  552  ./x.sh
+  553  gedit x.sh
+  554  ./x.sh 4 5
+  555  gedit x.sh
+  556  ./x.sh 10 20
+  557  ./x.sh 50
+  558  ./x.sh 1 2
+  559  ./x.sh 1 234534534534534534
+  560  gedit x.sh
+  561  ./x.sh 20 30
+  562  gedit x.sh
+  563  ./x.sh 20 30
+  564  ./test.o
+  565  gedit exmaple.c
+  566  gcc example.c
+  567  gcc -o example.o example.c
+  568  cd Desktop
+  569  gcc -o example.o example.c
+  570  gedit example.c
+  571  gcc -o example.o example.c
+  572  ./example.o
+  573  gedit example.c
+  574  gcc -o example.o example.c
+  575  ./example.o
+  576  ./CODI.o
+  577  cd Desktop
+  578  ./CODI.o
+  579  sudo ./CODI.o
+  580  chmod 
+  581  chmod u+x CODI.o
+  582  ./CODI.o
+  583  sudo
+  584  cd Desktop
+  585  sudo apt install vs.deb
+  586  dir
+  587  sudo apt install vs.deb
+  588  sudo apt install ./ vs.deb
+  589  sudo apt install ./vs.deb
+  590  history
+  591  history > m16.txt
